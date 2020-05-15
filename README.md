@@ -1,6 +1,16 @@
 # EZPool_Together
 
-Description:  EZ Pool is a landing site that contains curated crypto that will get cryptonaive users from dollar to Dai and in Pool Together within minutes.  
+Description:  EZ Pool is a landing site that contains curated crypto that will get cryptonaive users from dollar to Dai and in Pool Together within minutes. 
+
+
+Features: 
+
+`* Utilizes Argent Wallet for email/password set up (no seed phrases).
+ * Zero gas costs
+ * Free ENS Address
+ * KYC in Argent is instant:  no waiting.
+ * DAI can be purchased directly in Argent, no need to swap anything
+ * A tutorial will be on the site instructing user how to use coinbase to go from DAI to cash.
 
 User Flow: 
 
