@@ -18,7 +18,10 @@ https://youtu.be/TzhaJ4XyNdE
 
 Screenshots Of What Exists So Far: 
 
-![Shot 1](Screenshot at 10-16-52.png)
+![shot 2](https://github.com/adrianhacker-pdx/EZPool_Together/blob/master/Screenshot%20at%2010-16-52.png?raw=true)
+
+
+![Shot 1](https://github.com/adrianhacker-pdx/EZPool_Together/blob/master/Screenshot%20at%2010-17-12.png?raw=true)
 
 
 
