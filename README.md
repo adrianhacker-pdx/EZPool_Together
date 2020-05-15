@@ -12,7 +12,13 @@ User Flow:
 6.  Instructions will be located on the page for withdrawing.
 7.  Instructions will be located on the page for using coinbase to turn DAI back into cash (bank deposit or PayPa).
 
+Welcome Video Youtube Link:  
 
+https://youtu.be/TzhaJ4XyNdE
+
+Screenshots Of What Exists So Far: 
+
+![Shot 1](Screenshot at 10-16-52.png)
 
 
 
